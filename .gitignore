@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# Build directories
+dist/
+build/
+
+# Environment variables
+.env
+
+# Mac system files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Coverage files
+coverage/
+*.cover
+
+# IDE files
+.vscode/
+.idea/
+
+# NPM debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+tmp/
+temp/

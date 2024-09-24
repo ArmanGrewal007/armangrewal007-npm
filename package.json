@@ -1,0 +1,26 @@
+{
+  "name": "armangrewal007",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "CLI for Arman Singh Grewal's resume",
+  "main": "index.js",
+  "bin": {
+    "armangrewal007": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ArmanGrewal007/armangrewal007-npm.git"
+  },
+  "author": "armangrewal007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArmanGrewal007/armangrewal007-npm/issues"
+  },
+  "homepage": "https://github.com/ArmanGrewal007/armangrewal007-npm#readme",
+  "dependencies": {
+    "terminal-kit": "^3.1.1"
+  }
+}
